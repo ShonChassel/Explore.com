@@ -5,7 +5,7 @@
 <br/>
 :link: Link to the live project: [Link](https://netflix-il.vercel.app/)  
 <br/>
-<img src='1.png'/>
+<img src=1.png/>
 
 <br/>
 
