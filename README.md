@@ -1,17 +1,12 @@
-# :tv: Netflix
+# :tv: Explore
 <a name="readme-top"></a>
-show search engine that showcases information related to different television series.
-
-✅ Users can search TV shows & movies and watch the trailer..  
-✅ Users can explore different TV shows and filter them by genre: Top Rated, Trending Now, Thrillers, etc.  
-✅ Users can access information related to a specific TV show including Genres, ratings, Match, trailer, and more.  
-✅ Users can add or delete TV shows & movies from their personal WishList.
 
 
 <br/>
 :link: Link to the live project: [Link](https://netflix-il.vercel.app/)  
 <br/>
-<img src='3.png'/>
+<img src='1.png'/>
+<img src='2.png'/>
 <br/>
 
 ## My Process:
