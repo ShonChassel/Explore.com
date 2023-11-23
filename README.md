@@ -1,7 +1,8 @@
 # :tv: Explore
 
 <img src='1.png'/>
-<p><a href="#"><img src="1.png"></a></p>
+<img src='2.png'/>
+
 
 
 
