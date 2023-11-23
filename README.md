@@ -6,7 +6,7 @@
 :link: Link to the live project: [Link](https://netflix-il.vercel.app/)  
 <br/>
 <img src='1.png'/>
-<img src='2.png'/>
+
 <br/>
 
 ## My Process:
