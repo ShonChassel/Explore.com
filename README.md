@@ -3,8 +3,8 @@
 <h1 align="center">
   <a href="https://reactnative.dev/">
     ## 🚀 Explore Place 
-    React Native
   </a>
+  by React Native
 </h1>
 
 <img src='3.png'/>
